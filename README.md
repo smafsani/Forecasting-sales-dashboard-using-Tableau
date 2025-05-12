@@ -2,19 +2,19 @@
 Forecasting Sales Dashboard using Tableau is an interactive analytics tool designed to visualize sales trends, product performance, promotional impacts, and store data. The dashboard utilizes historical data to forecast future sales, providing actionable insights for better decision-making and strategic planning.
 ---
 ### 🏠 Home Dashboard
-<img width="683" alt="home" src="https://github.com/user-attachments/assets/d2149475-9a1e-47d7-9aa9-98070e1d5d67" />
+<img width="683" alt="home" src="https://github.com/user-attachments/assets/d2149475-9a1e-47d7-9aa9-98070e1d5d67" /> <br>
 
 ---
 ### 💰 Sales Dashboard
-<img width="684" alt="sales" src="https://github.com/user-attachments/assets/0dd1bcaa-e045-498f-a44e-6712b1f5ec43" />
+<img width="684" alt="sales" src="https://github.com/user-attachments/assets/0dd1bcaa-e045-498f-a44e-6712b1f5ec43" /> <br>
 
 ---
 ### 📦 Product Dashboard
-<img width="683" alt="product" src="https://github.com/user-attachments/assets/5bb12b67-d61a-4c8a-90d2-55179f275b6a" />
+<img width="683" alt="product" src="https://github.com/user-attachments/assets/5bb12b67-d61a-4c8a-90d2-55179f275b6a" /> <br>
 
 ---
 ### 🏬 Store Dashboard
-<img width="685" alt="store" src="https://github.com/user-attachments/assets/2c1f647c-de6f-4da3-b2f4-a1c130513022" />
+<img width="685" alt="store" src="https://github.com/user-attachments/assets/2c1f647c-de6f-4da3-b2f4-a1c130513022" /> <br>
 
 ---
 ### 📢 Promotion Dashboard
